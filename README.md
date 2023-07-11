@@ -1,6 +1,10 @@
 # JPEN-Covariance-Matrix-Estimation
 R code for JPEN covariance and inverse covariance matrix estimation.
 
+## CRAN package page:
+
+https://cran.r-project.org/web/packages/JPEN/index.html
+
 ## Paper:
 
 A well-conditioned and sparse estimation of covariance and inverse covariance matrices using a joint penalty*
